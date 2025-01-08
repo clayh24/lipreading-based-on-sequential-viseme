@@ -1,2 +1,3 @@
 # lipreading-based-on-sequential-viseme
-This is a lipreading project based on sequential viseme knowledge and dual-stream deep learning model interaction
+This repository is a lipreading project for sequential viseme knowledge and dual-stream deep learning model interaction.
+More content is in the process of uploading...
